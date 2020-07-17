@@ -1,0 +1,9 @@
+.container .signup-form .form-group .btn-hover{
+    transition: 0.8s all;
+}
+
+.container .signup-form .form-group .btn-hover:hover{
+    color: black;
+    cursor: pointer;
+    transition: 0.8s all;
+}
